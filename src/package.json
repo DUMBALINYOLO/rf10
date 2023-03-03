@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/graphin": "1.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-force-graph-2d": "1.17.4"
+  },
+  "keywords": [],
+  "name": "react-force-graph-force-graph",
+  "description": ""
+}
